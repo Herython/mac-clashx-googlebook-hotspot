@@ -1,0 +1,26 @@
+# Privacy-first allowlist: only reviewed reusable files enter this repository.
+/*
+!/.gitignore
+!/README.md
+!/outputs/
+/outputs/*
+!/outputs/Googlebook联网工具箱/
+/outputs/Googlebook联网工具箱/*
+!/outputs/Googlebook联网工具箱/先看这里.md
+!/outputs/Googlebook联网工具箱/hotspot-proxy.py
+!/outputs/Googlebook联网工具箱/启动透明代理.command
+!/outputs/Googlebook联网工具箱/维护/
+/outputs/Googlebook联网工具箱/维护/*
+!/outputs/Googlebook联网工具箱/维护/应急恢复普通热点.command
+
+# Explicit sensitive/generated exclusions (also covered by the allowlist).
+**/*.log
+**/*.local.*
+**/.env
+**/.env.*
+**/__pycache__/
+**/*.pyc
+**/.DS_Store
+**/历史诊断/
+**/运行记录/
+/work/
