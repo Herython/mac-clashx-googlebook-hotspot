@@ -1,0 +1,30 @@
+outputs/Googlebook联网工具箱/先看这里.md
+  s_ee36db9d03cbca::t_dd677975aaff40 1-58
+.gitignore
+  s_ee36db9d03cbca::t_6ee211aeb5b775 1-26
+README.md
+  s_ee36db9d03cbca::t_687307392aa51b 1-24
+outputs/Googlebook联网工具箱/hotspot-proxy.py
+  s_ee36db9d03cbca::t_8b60f066ba67a1 1-211
+outputs/Googlebook联网工具箱/启动透明代理.command
+  s_ee36db9d03cbca::t_d8f597eca7ee03 1-8
+outputs/Googlebook联网工具箱/维护/应急恢复普通热点.command
+  s_ee36db9d03cbca::t_cb52613f856a71 1-11
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "5.29.1408",
+  "base_commit_sha": "d2366b9ba48ffe35c587bc091bdbe2f20a65f5c8",
+  "prompts": {},
+  "sessions": {
+    "s_ee36db9d03cbca": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "01a19b94-bd85-71a2-a49d-e432b11a089e",
+        "model": "unknown"
+      },
+      "human_author": "Herython <69076602+Herython@users.noreply.github.com>",
+      "total_deletions": 0
+    }
+  }
+}
