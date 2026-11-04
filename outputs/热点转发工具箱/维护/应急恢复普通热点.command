@@ -1,5 +1,5 @@
 #!/bin/zsh
-print '这会仅清除 Googlebook 工具的临时转发规则，恢复普通热点直连。'
+print '这会仅清除 本工具的临时转发规则，恢复普通热点直连。'
 print '不会清空系统防火墙规则，也不会关闭互联网共享。'
 /usr/bin/sudo /sbin/pfctl -a com.apple/000.codex-googlebook -F all
 if [[ $? -eq 0 ]]; then

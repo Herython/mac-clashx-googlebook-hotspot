@@ -1,17 +1,17 @@
-# Privacy-first allowlist: only reviewed reusable files enter this repository.
+# Track the reusable toolkit files.
 /*
 !/.gitignore
 !/README.md
 !/outputs/
 /outputs/*
-!/outputs/Googlebook联网工具箱/
-/outputs/Googlebook联网工具箱/*
-!/outputs/Googlebook联网工具箱/先看这里.md
-!/outputs/Googlebook联网工具箱/hotspot-proxy.py
-!/outputs/Googlebook联网工具箱/启动透明代理.command
-!/outputs/Googlebook联网工具箱/维护/
-/outputs/Googlebook联网工具箱/维护/*
-!/outputs/Googlebook联网工具箱/维护/应急恢复普通热点.command
+!/outputs/热点转发工具箱/
+/outputs/热点转发工具箱/*
+!/outputs/热点转发工具箱/先看这里.md
+!/outputs/热点转发工具箱/hotspot-proxy.py
+!/outputs/热点转发工具箱/启动透明代理.command
+!/outputs/热点转发工具箱/维护/
+/outputs/热点转发工具箱/维护/*
+!/outputs/热点转发工具箱/维护/应急恢复普通热点.command
 
 # Explicit sensitive/generated exclusions (also covered by the allowlist).
 **/*.log
